@@ -33,7 +33,7 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/noam-rivlin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;padding:10px;"></a>
+  <a href="https://www.linkedin.com/in/noam-rivlin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="50" style="margin-bottom: 5px;"></a>
 </div>  
   
 
