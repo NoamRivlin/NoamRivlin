@@ -1,4 +1,4 @@
-# <div align="center" width="500">Hello, World! 👋 I'm Liz!</div>  
+# <div align="center" width="500">Hello, World! 👋 I'm Noam!</div>  
   
 
 ### <div align="center">I'm  a full-stack developer 💻📱</div>  
@@ -33,8 +33,7 @@
 
 
 <div align="center">
-<a href="[www.linkedin.com/in/noam-rivlin](https://www.linkedin.com/in/noam-rivlin/)" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href="https://www.linkedin.com/in/noam-rivlin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"></a>
 </a>  
 </div>  
   
@@ -48,6 +47,15 @@
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=NoamRivlin&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+<br/>  
+
+<div align="center">
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 </div>  
 
 <br />
