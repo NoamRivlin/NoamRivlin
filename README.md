@@ -1,7 +1,10 @@
-# <div align="center" width="500">Hello, World! 👋 I'm Noam!</div>  
+<div align="center">
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+</div>  
   
 
-### <div align="center">I'm  a full-stack developer 💻📱</div>  
+### <div align="center">Hey i'm Noam, a full-stack developer 💻📱</div>  
   
 
 - 🔭 I’m currently working on [BingeTogther](https://github.com/NoamRivlin/bingeTogether)  
@@ -52,9 +55,6 @@
 
 <br/>  
 
-<div align="center">
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-</div>  
+
 
 <br />
