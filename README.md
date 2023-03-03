@@ -47,14 +47,7 @@
 
 <br/>  
 
-<div>
-<img src="https://komarev.com/ghpvc/?username=NoamRivlin&&style=flat-square" align="center" />
-</div>  
 
 <br />
 
-<br/>  
 
-
-
-<br />
