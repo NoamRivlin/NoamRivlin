@@ -7,10 +7,10 @@
 ### <div align="center">Hey i'm Noam, a full-stack developer 💻📱</div>  
   
 
-- 🔭 I’m currently working on [BingeTogther](https://github.com/NoamRivlin/bingeTogether)  
+- 🔭 I’m currently working on [Bingify](https://github.com/NoamRivlin/bingify) and Srisa Portal (Private Repo)
   
 
-- 🌱 I’m currently learning full stack web development at [Masterschool](https://www.masterschool.com/)  
+- 🌱 graduated from the full stack web development program at [Masterschool](https://www.masterschool.com/)  
   
 
 - 🤓 I’m looking to collaborate on anything   
