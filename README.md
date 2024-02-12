@@ -6,9 +6,6 @@
 
 ### <div align="center">Hey i'm Noam, a full-stack developer 💻📱</div>  
 
-- 🤓 I’m looking to collaborate on anything   
-    
-
 <br/>  
 
 
