@@ -5,13 +5,6 @@
   
 
 ### <div align="center">Hey i'm Noam, a full-stack developer 💻📱</div>  
-  
-
-- 🔭 I’m currently working on [Ceevee](https://www.ceevee.ai/) and Srisa Portal (Private Repos)
-  
-
-- 🌱 graduated from the full stack web development program at [Masterschool](https://www.masterschool.com/)  
-  
 
 - 🤓 I’m looking to collaborate on anything   
     
